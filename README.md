@@ -2,6 +2,9 @@ this is Right to Left toolbar.
 
 
 ![alt tag](https://github.com/arashsammak/RTL-Toolbar-Android-AppCompat/blob/master/screenshot/screenshot.png)
+ :height: 100px
+   :width: 200 px
+   :scale: 50 %
 
 
 # RTL-Toolbar-Android-AppCompat
