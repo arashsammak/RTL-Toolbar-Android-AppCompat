@@ -1,10 +1,8 @@
 this is Right to Left toolbar.
 
 
-![alt tag](https://github.com/arashsammak/RTL-Toolbar-Android-AppCompat/blob/master/screenshot/screenshot.png)
-{ width: 200px; }
 
-
+![](https://github.com/arashsammak/RTL-Toolbar-Android-AppCompat/blob/master/screenshot/screenshot.png =100x20)
 
 
 # RTL-Toolbar-Android-AppCompat
