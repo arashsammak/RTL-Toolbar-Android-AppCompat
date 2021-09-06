@@ -1,4 +1,4 @@
-# RTL-Toolbar-Android-AppCompat
+# RTL-Toolbar-Android-AppCompat (DEPRECATED)
 <b>Right to Left</b> (RTL) Toolbar for AppCompat  Android (Persian Toolbar)
 <br/>
 <b>AppCompat Toolbar for API > 11</b>
